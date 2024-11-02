@@ -27,7 +27,6 @@
 - **Efektivitas RIP v2**  
   RIP v2 terbukti efektif untuk jaringan dengan ukuran terbatas namun terbatas oleh batas maksimum hop count sebesar 15. Protokol ini cocok untuk topologi sederhana, namun kurang optimal untuk jaringan yang lebih besar.
 
----
 
 ## Kesimpulan
 
